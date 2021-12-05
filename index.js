@@ -17,3 +17,5 @@ for (var i = a; i <= b; i++) {
 }else {
     console.log(colors.red('numbers should be Integer'))
 };
+
+//
