@@ -15,5 +15,5 @@ for (var i = a; i <= b; i++) {
     }
 };
 }else {
-    console.log('numbers should be Integer')
+    console.log(colors.red('numbers should be Integer'))
 };
